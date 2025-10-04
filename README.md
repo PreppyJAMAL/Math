@@ -227,3 +227,8 @@ window.addEventListener('resize', () => {
 
 </body>
 </html>
+
+</script>
+
+</body>
+</html>
